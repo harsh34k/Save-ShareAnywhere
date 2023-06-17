@@ -1,0 +1,15 @@
+UNIT -1
+No. of Hrs. 12 Chapter/Book Reference: TB2 [chapters 3, 4], TB3 [chapters 2, 3, 4, 5,6]
+PROBABILITY: Introduction, Axiomatic definition of Probability, Addition Theorem, Multiplication
+theorem, Conditional Probability, Baye’s Theorem and its applications
+PROBABILITY DISTRIBUTIONS: Random Variable, Probability Mass function, Probability density
+function, Mathematical ~~ Expectations of a Random Variable, Binomial Distribution, Poisson distribution,
+Normal Distribution.
+
+UNIT -IT
+No. of Hrs. 10 Chapter/Book Reference: TBI [chapters 2, 3], TB3 [chapters 7, 8, 9]
+INTERPOLATION: Operators: Shift; Forward Difference, Backward Difference Operators and their Inter-
+relation, Interpolation Formulae-Newton’s Forward, Backward and Divided Difference Formulae: Lagrange’Formula
+SOLUTIONS OF NON LINEAR EQUATIONS: Bisection Method, False Position Method, Newton — Raphson
+Method for Solving Equation Involving One Variable only.
+
